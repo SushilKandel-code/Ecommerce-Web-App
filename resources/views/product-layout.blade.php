@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Title Tag  -->
-    <title>Eshop - eCommerce HTML5 Template.</title>
+    <title>Ecommerce Shop</title>
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<!-- Web Font -->
@@ -69,8 +69,8 @@
 						<!-- Top Left -->
 						<div class="top-left">
 							<ul class="list-main">
-								<li><i class="ti-headphone-alt"></i> +060 (800) 801-582</li>
-								<li><i class="ti-email"></i> support@shophub.com</li>
+								<li><i class="ti-headphone-alt"></i> +977 9827124921</li>
+								<li><i class="ti-email"></i> sushilkandel135@gmail.com</li>
 							</ul>
 						</div>
 						<!--/ End Top Left -->
@@ -79,7 +79,7 @@
 						<!-- Top Right -->
 						<div class="right-content">
 							<ul class="list-main">
-								<li><i class="ti-location-pin"></i> Store location</li>
+								<li><i class="ti-location-pin"></i> Pokhara, Nepal</li>
 								<li><i class="ti-alarm-clock"></i> <a href="#">Daily deal</a></li>
 								<li><i class="ti-user"></i> <a href="#">My account</a></li>
 								<li><i class="ti-power-off"></i><a href="login.html#">Login</a></li>

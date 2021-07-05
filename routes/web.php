@@ -16,9 +16,9 @@ use App\Models\Products;
 
 Route::get('/create_product', function () {
     $products = Products::create([
-        'product_name'=>'Poco F1',
-        'product_desc'=> 'This phone is made by Xiomi Company',
-        'price'=> '15,000',
+        'product_name'=>'Laptop',
+        'product_desc'=> 'This is Laptop',
+        'price'=> '96,000',
         'image'=>''
     ]);
 
@@ -33,5 +33,6 @@ Route::get('/', function () {
 });
 
 Route::get('/home', function () {
-    return view('home');
+    $products = Products::get();
+    return view('home',['products'=>$products]);
 });
